@@ -1,0 +1,6 @@
+# Don't upload Teachable Machine models
+keras_model.h5
+labels.txt
+
+# macOS
+.DS_Store
