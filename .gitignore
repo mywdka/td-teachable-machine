@@ -2,5 +2,8 @@
 keras_model.h5
 labels.txt
 
+# Venv
+td-tm/
+
 # macOS
 .DS_Store
