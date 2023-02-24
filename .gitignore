@@ -5,5 +5,9 @@ labels.txt
 # Venv
 td-tm/
 
+# TouchDesigner stuff
+Backup/	
+*.*.toe
+
 # macOS
 .DS_Store
